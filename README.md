@@ -139,4 +139,4 @@
 
 <hr />
 
-<p><strong>Para dúvidas, melhorias ou contribuições, entre em contato com o desenvolvedor responsável.</strong></p>
+<p><strong>Para dúvidas, melhorias ou contribuições, entre em contato comigo.</strong></p>
